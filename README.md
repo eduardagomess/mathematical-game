@@ -2,6 +2,6 @@
 
 Challenges - Geek University - Python Programming
 
-Develop an application whereupon initialization, ask the user to choose the level of difficulty of the game and after that generates and presents, at random, a calculation so that the user can inform the result.
+We should develop an application that when initialized it asks the user to choose the difficulty of the game. After that, it generates and presents, randomly, a mathematical operation that the user must answer.
 
-Limit operations on adding, decreasing, multiplying and division. If the user gets the answer right, it will add 1 point to his score. Hit or miss, he may or may not continue the game.
+In addition, limit the mathematical operations on adding, subtraction, multiplying, and division. If the user gets the answer right, it will be added 1 point to his score. And to finish, even though the user misses, he may continue the game.
